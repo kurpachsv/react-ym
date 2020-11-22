@@ -1,3 +1,3 @@
 # @kurpachsv/react-ym
-Library for support Yandex.Metrika in modern React.js apps.
+Library for support Yandex.Metrika for modern React.js apps.
 
