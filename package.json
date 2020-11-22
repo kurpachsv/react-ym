@@ -1,0 +1,33 @@
+{
+  "name": "react-ym",
+  "version": "0.0.0",
+  "description": "Library for support Yandex.Metrika in modern React.js apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurpachsv/react-ym.git"
+  },
+  "keywords": [
+    "react",
+    "yandex.metrika"
+  ],
+  "author": "kurpachsv",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kurpachsv/react-ym/issues"
+  },
+  "homepage": "https://github.com/kurpachsv/react-ym#readme",
+  "devDependencies": {
+    "@kurpachsv/common": "0.0.7"
+  },
+  "peerDependencies": {
+    "@types/react": "^16.8.0",
+    "react": "^16.8.0"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
